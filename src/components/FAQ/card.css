@@ -1,0 +1,24 @@
+.faq{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.faq .title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.faq .title h2{
+    display: inline-block;
+}
+
+.faq .title button{
+    background: transparent;
+    outline: none;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}
